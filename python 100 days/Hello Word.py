@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 #第一个注释
 print("Hello World! 你好，世界！")#第二个注释
 '''

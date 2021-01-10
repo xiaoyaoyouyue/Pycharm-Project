@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 '''
 Python 中有6大数据类型：
 1、number 数字
