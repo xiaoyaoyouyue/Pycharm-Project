@@ -4,6 +4,14 @@
 # @File    : 1.6.2 loadlib.py
 # @Software: PyCharm
 
+# #方法一：直接引用
+# import mylib
+#
+# run = mylib.Hello()
+# run.sayHello()
 
+#方法二:详细引用
+from mylib import Hello
 
-h = mylib.Hello
+run = Hello()
+run.sayHello()
