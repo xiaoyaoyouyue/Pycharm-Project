@@ -8,7 +8,7 @@
 class Hello:
 
     # 构造方法
-    def __init__(self,name):
+    def __init__(self, name):
         self._name = name
 
     # 定义一个方法
@@ -19,9 +19,9 @@ class Hello:
 #继承类
 class Hi(Hello):
     #创建构造方法
-    def __init__(self,name):
+    def __init__(self, name):
         #创建副类的构造方法
-        Hello.__init__(self,name)
+        Hello.__init__(self, name)
 
     #继承定义方法
     def sayHi(self):

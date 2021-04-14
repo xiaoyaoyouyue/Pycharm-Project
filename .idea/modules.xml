@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/..//PyCharmProject/../../PyCharm Project/.idea/PyCharmProject.iml" filepath="$PROJECT_DIR$/..//PyCharmProject/../../PyCharm Project/.idea/PyCharmProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyCharm Project.iml" filepath="$PROJECT_DIR$/.idea/PyCharm Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/WEB2PY/.idea/WEB2PY.iml" filepath="$PROJECT_DIR$/WEB2PY/.idea/WEB2PY.iml" />
     </modules>
   </component>
